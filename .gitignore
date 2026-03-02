@@ -1,2 +1,6 @@
 node_modules
 .env
+attack_logs.json
+temp_audio.ogg
+temp_audio.wav
+temp_image.jpg
